@@ -1,2 +1,0 @@
-# anujmishra
-the portfolio website
